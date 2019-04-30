@@ -1,4 +1,4 @@
-package RecorridosGrafos;
+package recorridosGrafos;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
