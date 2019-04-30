@@ -8,7 +8,7 @@ public class BusquedaProfundidad {
     private static final int NUM_NODOS = 9;
 
     public static void main(String[] args) {
-        // Ejemplo de grafo no dirigido para probar busqueda en profundidad
+        // Ejemplo de grafo no dirigido para probar búsqueda en profundidad
         List[] grafo = new List[NUM_NODOS + NODO_INICIAL];
         inicializar(grafo);
 
