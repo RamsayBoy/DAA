@@ -6,4 +6,4 @@
 ### Sesión 1
 - Hello World - **no subido**
 - Búsqueda en anchura - **no subido** - (_igual que recorrido en anchura_)
-- Planificando desfiles - **no subido** - (_comprobar si hay ciclos en un grafo_)
+- Planificando desfiles - (_comprobar si hay ciclos en un grafo_)
