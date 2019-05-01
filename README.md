@@ -9,5 +9,5 @@
 - Planificando desfiles (_comprobar si hay ciclos en un grafo_) - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion1/Ciclos.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion1/planificandoDesfiles.pdf)
 ### Sesión 2
 - Actividades - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion2/Actividades.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion2/actividades.pdf)
-- Equipo Dark Souls - **no subido (todavía)**
+- Equipo Dark Souls - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion2/EquipoDarkSouls.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion2/equipoDarkSouls.pdf)
 - Final Story - **no subido (todavía)**
