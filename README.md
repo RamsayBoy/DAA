@@ -2,6 +2,9 @@
 ## Recorridos de grafos
 - Recorrido en profundidad - [código](https://github.com/RamsayBoy/DAA/blob/master/src/recorridosGrafos/BusquedaProfundidad.java)
 - Recorrido en anchura - [código](https://github.com/RamsayBoy/DAA/blob/master/src/recorridosGrafos/BusquedaAnchura.java)
+## Divide y vencerás
+- Búsqueda binaria - **no subido todavía**
+- Mergesort - [código](https://github.com/RamsayBoy/DAA/blob/master/src/divideYVenceras/Mergesort.java)
 ## Parcial 1
 ### Sesión 1
 - Hello World - **no subido todavía**
