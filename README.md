@@ -18,3 +18,9 @@
 - Problema Dark Souls (_enemigos derrotados y puntos obtenidos_) - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion3/PuntosDarkSouls.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion3/puntosDarkSouls.pdf)
 - Mergesort - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion3/Mergesort.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion3/mergesort.pdf)
 - Skyline - **no subido todavía**
+## Parcial 2
+### Sesión 4
+- Las carreteras más caras (_CalleCara_) - **no subido todavía**
+- Casi sudoku - **no subido todavía**
+- Laberinto (_camino más corto_) - **no subido todavía**
+- Sudoku - [código](https://github.com/RamsayBoy/DAA/blob/master/src/primerParcial/sesion4/Sudoku.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion4/sudoku.pdf)
