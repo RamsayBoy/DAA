@@ -24,3 +24,7 @@
 - Casi sudoku - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/CasiSudoku.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion4/casiSudoku.pdf)
 - Laberinto (_camino más corto_) - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/LaberintoCorto.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion4/laberintoCorto.pdf)
 - Sudoku - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/Sudoku.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosSesiones/sesion4/sudoku.pdf)
+## Examen parcial 2
+- Problema colocación alumnos en examen - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/examen/Examen.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosExamenes/examen.pdf)
+- Problema el viaje de Thanos - **no subido todavía**
+- Skillboard - **no subido todavía**
