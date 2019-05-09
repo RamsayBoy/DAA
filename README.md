@@ -30,5 +30,5 @@
 - Problema selección de enemigos - **no subido todavía**
 ## Examen parcial 2
 - Problema colocación alumnos en examen - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/examen/Examen.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosExamenes/examen.pdf)
-- Problema el viaje de Thanos - **no subido todavía**
+- Problema el viaje de Thanos - [código](https://github.com/RamsayBoy/DAA/blob/master/src/segundoParcial/examen/Thanos.java) - [enunciado](https://github.com/RamsayBoy/DAA/blob/master/enunciadosExamenes/thanos.pdf)
 - Skillboard - **no subido todavía**
