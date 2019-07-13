@@ -1,3 +1,4 @@
+ATENCIÓN: Es muy posible que los códigos que veas a continuación no sigan un diseño (normas, conceptos, etc) orientado a objetos. De esta manera se agiliza la escritura de código.
 # DAA
 ## Recorridos de grafos
 - Recorrido en profundidad - [código](https://github.com/RamsayBoy/DAA/blob/master/src/recorridosGrafos/BusquedaProfundidad.java)
